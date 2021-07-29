@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: brown;
+    font-size: x-large;
+}
+
+header {
+    color: burlywood;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique -90deg;
+    font-size: 60px;
+    background-color: navy;
+    margin: 2%;
+    padding: 1%;
+    border-style: dashed;
+    
+}
+
+.no1 {
+    color: oldlace;
+}
+
+.no2 {
+    background-color: olivedrab;
+}
+
+.no3 {
+    
+    color: blueviolet;
+}
+
+.no4 {
+    background-color: cadetblue;
+}
